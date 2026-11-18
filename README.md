@@ -35,4 +35,4 @@ You should not rely on this design.
 
 ## License
 
-Undecided.
+Apache-2.0
